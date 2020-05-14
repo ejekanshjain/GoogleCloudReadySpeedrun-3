@@ -1,0 +1,6 @@
+create a mysql instance
+then create database bike
+
+create cloud storage bucket and upload these two files
+
+bike
